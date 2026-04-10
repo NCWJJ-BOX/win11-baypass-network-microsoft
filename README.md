@@ -9,4 +9,4 @@ bypass network
 
 bypass microsoft
 
-    ms-cxh:localonly
+    start ms-cxh:localonly
